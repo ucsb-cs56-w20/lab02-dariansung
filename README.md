@@ -1,6 +1,6 @@
 # lab02-dariansung
 
-Javadoc: https://ucsb-cs56-w20.github.io/lab02-dariansung/javadoc
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-dariansung
 Repo: https://github.com/ucsb-cs56-w20/lab02-dariansung
 
 # About this repo
